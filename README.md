@@ -1,1 +1,1 @@
--PHP chat (login, logout, auth, cookie, create & modify password)
+-PHP chat (login, logout, auth, cookie, create & modify password) flock function isn't work correctly 90/100
